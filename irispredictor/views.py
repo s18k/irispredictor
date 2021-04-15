@@ -1,4 +1,4 @@
-from iris-predictor import app
+from irispredictor import app
 from flask import Flask,render_template,request
 from sklearn.datasets import load_iris
 from sklearn.neighbors import KNeighborsClassifier
