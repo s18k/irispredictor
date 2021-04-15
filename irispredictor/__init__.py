@@ -6,7 +6,7 @@ import pickle
 import numpy as np
 app = Flask(__name__)
 
-import iris-predictor.views
+import irispredictor.views
 
 
 
