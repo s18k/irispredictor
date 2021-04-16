@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: irispredictor
-Version: 0.0.2
+Version: 1.0.0
 Summary: A simple Flask application for Iris prediction
 Home-page: https://github.com/s18k/irispredictor
 Author: Shreyas Kamath
 Author-email: shreyaskamath18@gmail.com
 License: MIT
-Download-URL: https://github.com/s18k/irispredictor//archive/irispredictor-0.0.2
+Download-URL: https://github.com/s18k/irispredictor//archive/irispredictor-1.0.0
 Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
