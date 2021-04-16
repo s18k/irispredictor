@@ -32,5 +32,5 @@ def predict():
         image = "iris-versicolor.jpg"
     else:
         result = "Iris Virginica"
-        image = "iris-virginica.jpg"
+        image = "iris-verginica.jpg"
     return render_template("result.html",result = result,image = image)
